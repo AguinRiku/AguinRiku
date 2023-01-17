@@ -43,6 +43,6 @@
   </a>
 </p>
 
-https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022
+[2022](https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022)
 
-https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023
+[2023](https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023)
