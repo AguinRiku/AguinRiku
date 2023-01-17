@@ -1,7 +1,3 @@
-<h1>
-  <p class="font1">Hello! I'm Aguin</p>
-</h1>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
