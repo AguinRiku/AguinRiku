@@ -22,6 +22,15 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/AguinRiku/AguinRiku/">
+    <img src="https://komarev.com/ghpvc/?username=AguinRiku" alt="AguinRiku" />
+  </a>
+  <a href="https://github.com/AguinRiku">
+    <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022
 
 https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023
