@@ -1,4 +1,6 @@
-<h1>Hello! I'm Aguin</h1>
+<h1>
+  <p class='font1'>Hello! I'm Aguin</p>
+</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
