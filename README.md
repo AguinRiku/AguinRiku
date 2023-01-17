@@ -21,3 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
+
+https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022
+
+https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023
