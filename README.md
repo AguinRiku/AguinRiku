@@ -45,6 +45,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AguinRiku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AguinRiku&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=default&utcOffset=8)
+
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&theme=ocean_dark" />
