@@ -43,6 +43,9 @@
   </a>
 </p>
 
-[2022 コントリビューショングラフ](https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022)
-
-[2023 コントリビューショングラフ](https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku" />
+</a>
