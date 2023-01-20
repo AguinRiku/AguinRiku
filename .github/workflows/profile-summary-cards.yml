@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SECRETS }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.AguinRiku }}
