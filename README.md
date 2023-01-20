@@ -19,6 +19,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AguinRiku&theme=buefy-dark)](https://git.io/streak-stats)
+
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&theme=ocean_dark" />
