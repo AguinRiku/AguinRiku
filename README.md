@@ -1,3 +1,5 @@
+<img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,css,discord,dotnet,eclipse,git,github,html,instagram,js,jquery,postgres,powershell,react,twitter,ts,unity,vim,visualstudio,vscode,vue)](https://skillicons.dev)
 
 <p align="left">
