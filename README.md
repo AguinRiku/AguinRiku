@@ -43,9 +43,13 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AguinRiku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku" />
+  </a>
+</p>
