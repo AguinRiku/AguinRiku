@@ -6,12 +6,6 @@
 </a>
 <br/><br/>
 
-<!--トロフィー-->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AguinRiku&theme=onedark">
-</a>
-<br/><br/>
-
 <!--プロフィール閲覧数、フォロワー-->
 <p align="left">
   <a href="https://github.com/AguinRiku/AguinRiku/">
@@ -21,6 +15,12 @@
     <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+<!--トロフィー-->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AguinRiku&theme=onedark">
+</a>
+<br/><br/>
 
 <!--コントリビューション-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight">
