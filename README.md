@@ -1,7 +1,18 @@
 <img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,css,discord,dotnet,eclipse,git,github,html,instagram,js,jquery,postgres,powershell,react,twitter,ts,unity,vim,visualstudio,vscode,vue)](https://skillicons.dev)
+<!--スキルバッチ-->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,discord,dotnet,eclipse,git,github,html,instagram,js,jquery,postgres,powershell,react,twitter,ts,unity,vim,visualstudio,vscode,vue">
+</a>
+<br/><br/>
 
+<!--トロフィー-->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AguinRiku&theme=onedark">
+</a>
+<br/><br/>
+
+<!--プロフィール閲覧数、フォロワー-->
 <p align="left">
   <a href="https://github.com/AguinRiku/AguinRiku/">
     <img src="https://komarev.com/ghpvc/?username=AguinRiku" alt="AguinRiku" />
@@ -11,15 +22,15 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AguinRiku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--コントリビューション-->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight)
+<!--コミット数-->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AguinRiku&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AguinRiku&theme=buefy-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AguinRiku&theme=buefy-dark">
+</a>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
