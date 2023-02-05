@@ -33,3 +33,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&theme=ocean_dark" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku&theme=ocean_dark" />
 </a>
+
+[My Create Page](https://aguinriku.github.io/AguinRiku/)
