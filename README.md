@@ -24,8 +24,8 @@
 
 <!--コントリビューション-->
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight" style="width:600px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8" style="width:300px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight">
+  <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8">-->
 </p>
   
 <!--コミット数-->
