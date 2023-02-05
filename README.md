@@ -24,7 +24,7 @@
 
 <!--コントリビューション-->
 <p align="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight" style="width:700px">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight" style="width:630px">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8" style="width:307px">
 </p>
   
