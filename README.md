@@ -23,12 +23,13 @@
 <br/><br/>
 
 <!--コントリビューション-->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight">
-
-<!--コミット数-->
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&theme=ocean_dark" />
-  </a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight" style="width:700px">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8" style="width:307px">
 </p>
+  
+<!--コミット数-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&theme=ocean_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku&theme=ocean_dark" />
+</a>
