@@ -13,7 +13,8 @@
   </a>
   <a href="https://github.com/AguinRiku">
     <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
-  </a>
+  </a><br/>
+  <a href="https://aguinriku.github.io/AguinRiku/">My Create WebPage</a>
 </p>
 
 <!--トロフィー-->
@@ -33,5 +34,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&theme=ocean_dark" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku&theme=ocean_dark" />
 </a>
-
-[My Create Page](https://aguinriku.github.io/AguinRiku/)
