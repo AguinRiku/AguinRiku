@@ -1,6 +1,6 @@
 <img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%"><hr>
 
-<h3>My Skills<img src="アイアンマン.svg" width="30px" height="30px"></h3>
+<h3>Languages and Tools👨‍💻</h3>
 <!--スキルバッチ-->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,discord,dotnet,eclipse,git,github,html,instagram,js,jquery,postgres,powershell,react,twitter,ts,unity,vim,visualstudio,vscode,vue">
