@@ -10,17 +10,17 @@
 
 <h3>Status💪</h3>
 <!--プロフィール閲覧数、フォロワー-->
-<p align="left">
-  <a href="https://github.com/AguinRiku/AguinRiku/">
-    <img src="https://komarev.com/ghpvc/?username=AguinRiku" alt="AguinRiku" />
-  </a>
-  <a href="https://github.com/AguinRiku">
-    <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
-  </a><br/>
-  <a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a><br/>
-  <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022">・City-2022</a><br/>
-  <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023">・City-2023</a>
-</p>
+
+<a href="https://github.com/AguinRiku/AguinRiku/">
+  <img src="https://komarev.com/ghpvc/?username=AguinRiku" alt="AguinRiku" />
+</a>
+<a href="https://github.com/AguinRiku">
+  <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
+</a><br/>
+<a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a><br/>
+<a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022">・City-2022</a><br/>
+<a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023">・City-2023</a>
+<br/><br/>
 
 <img src="Logo.gif">
 
@@ -31,10 +31,7 @@
 <br/><br/>
 
 <!--コントリビューション-->
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight">
-  <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AguinRiku&theme=tokyonight&utcOffset=8">-->
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku&theme=tokyonight">
 
 <!--コミット数-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
