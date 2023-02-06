@@ -1,13 +1,13 @@
 <img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
 
-<h3>My Skills</h3>
+<h3>My Skills👨‍💻</h3>
 <!--スキルバッチ-->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,discord,dotnet,eclipse,git,github,html,instagram,js,jquery,postgres,powershell,react,twitter,ts,unity,vim,visualstudio,vscode,vue">
 </a>
 <br/><br/>
 
-<h3>Status</h3>
+<h3>Status💪</h3>
 <!--プロフィール閲覧数、フォロワー-->
 <p align="left">
   <a href="https://github.com/AguinRiku/AguinRiku/">
