@@ -17,6 +17,9 @@
   <a href="https://github.com/AguinRiku">
     <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
   </a><br/>
+  <a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a><br/>
+  <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022">・City-2022</a><br/>
+  <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023">・City-2023</a>
 </p>
 
 <img src="Logo.gif">
@@ -37,11 +40,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku&count_private=true&theme=ocean_dark" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku&theme=ocean_dark" />
-</a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><hr>
-
-<p align="left">
-<h3>Check</h3>
-<a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a><br/>
-<a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022">・City-2022</a><br/>
-<a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023">・City-2023</a>
-</p>
+</a>
