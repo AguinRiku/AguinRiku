@@ -22,6 +22,8 @@
   <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023">・City-2023</a>
 </p>
 
+<img src="Logo.gif">
+
 <!--トロフィー-->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=AguinRiku&theme=onedark">
