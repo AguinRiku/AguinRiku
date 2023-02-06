@@ -4,8 +4,9 @@
 <!--スキルバッチ-->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,discord,dotnet,eclipse,git,github,html,instagram,js,jquery,postgres,powershell,react,twitter,ts,unity,vim,visualstudio,vscode,vue">
-</a>
-<br/><br/><hr>
+</a><br/><br/>
+<img src="https://digitaledgetech.in/images/Banner_02_new.gif">
+<br/><hr>
 
 <h3>Status💪</h3>
 <!--プロフィール閲覧数、フォロワー-->
