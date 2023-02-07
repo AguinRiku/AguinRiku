@@ -1,21 +1,41 @@
 <img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%"><hr>
 
-<h3>Languages and Tools👨‍💻</h3>
+<h2>Languages and Tools👨‍💻</h2>
+<h3>Main Skills</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,discord,dotnet,eclipse,git,github,html,instagram,js,jquery,postgres,powershell,react,twitter,ts,unity,vim,visualstudio,vscode,vue">
-</a><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cs,css,dotnet,html,js,jquery,react,ts,vim,vue">
+</a>
+  
+<h3>Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,git,github,powershell,unity,visualstudio,vscode">
+</a>
+
+<h3>RDBMS</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres">
+</a>
+
+<h3>Other</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=discord,instagram,twitter">
+</a>
+<br/><br/>
 <img src="https://digitaledgetech.in/images/Banner_02_new.gif">
 <hr>
 
-<h3>Status💪</h3>
+<h2>Status💪</h2>
 <a href="https://github.com/AguinRiku/AguinRiku/">
   <img src="https://komarev.com/ghpvc/?username=AguinRiku" alt="AguinRiku" />
 </a>
 <a href="https://github.com/AguinRiku">
   <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
-</a><br/>
-<a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a><br/>
-<a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022">・City-2022</a><br/>
+</a>
+<br/>
+<a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a>
+<br/>
+<a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022">・City-2022</a>
+<br/>
 <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2023">・City-2023</a>
 <br/><br/>
 
