@@ -3,12 +3,12 @@
 <h2>Languages and Tools👨‍💻</h2>
 <h3>Main Skills</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,css,dotnet,html,js,jquery,react,ts,vim,vue">
+  <img src="https://skillicons.dev/icons?i=cs,css,dotnet,html,js,jquery,react,ts,vue">
 </a>
   
 <h3>Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,git,github,powershell,unity,visualstudio,vscode">
+  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,git,github,powershell,unity,vim,visualstudio,vscode">
 </a>
 
 <h3>RDBMS</h3>
