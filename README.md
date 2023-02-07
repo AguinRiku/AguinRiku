@@ -3,7 +3,7 @@
 <h2>Languages and Tools👨‍💻</h2>
 <h3>Main Skills</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,css,dotnet,html,js,jquery,react,ts,vue">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,vue,cs,dotnet">
 </a>
   
 <h3>Tools</h3>
