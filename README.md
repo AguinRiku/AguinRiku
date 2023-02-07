@@ -8,7 +8,7 @@
   
 <h3>Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,git,github,powershell,unity,vim,visualstudio,vscode">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,eclipse,git,github,powershell,vim,unity">
 </a>
 
 <h3>RDBMS</h3>
@@ -18,7 +18,7 @@
 
 <h3>Other</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=discord,instagram,twitter">
+  <img src="https://skillicons.dev/icons?i=instagram,twitter,discord">
 </a>
 <br/><br/>
 <img src="https://digitaledgetech.in/images/Banner_02_new.gif">
