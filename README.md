@@ -32,7 +32,7 @@
   <img height="20" src="https://img.shields.io/github/followers/AguinRiku?label=follow&logo=github&style=flat" />
 </a>
 <br/>
-<a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a>
+<!--<a href="https://aguinriku.github.io/AguinRiku/">・My Create WebPage</a>-->
 <br/>
 <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku&year=2022">・City-2022</a>
 <br/>
