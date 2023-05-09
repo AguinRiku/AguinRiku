@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,eclipse,git,github,powershell,vim,unity">
 </a>
 
-<h3>RDBMS</h3>
+<h3>Database</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postgres">
 </a>
